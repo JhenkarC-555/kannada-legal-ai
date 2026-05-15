@@ -1,0 +1,42 @@
+# ── Python ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# ── ML Models (too large for git) ───────────────────────────
+training/checkpoints/
+*.bin
+*.pt
+*.safetensors
+*.gguf
+
+# ── Data (large files & sensitive) ──────────────────────────
+data/raw/
+data/augmented/
+data/vector_store/
+
+# ── Notebooks output ────────────────────────────────────────
+notebooks/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# ── Frontend ────────────────────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# ── VS Code ─────────────────────────────────────────────────
+.vscode/
+*.code-workspace
+
+# ── Misc ────────────────────────────────────────────────────
+.DS_Store
+*.log
+wandb/
+*.tmp

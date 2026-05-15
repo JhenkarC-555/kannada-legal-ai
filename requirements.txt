@@ -1,0 +1,48 @@
+# ── Flask Backend ───────────────────────────────────────────
+flask==3.0.3
+flask-cors==4.0.0
+python-dotenv==1.0.1
+
+# ── Core ML ─────────────────────────────────────────────────
+torch>=2.1.0
+transformers>=4.40.0
+datasets>=2.18.0
+accelerate>=0.27.0
+peft>=0.10.0
+bitsandbytes>=0.43.0
+
+# ── Indic NLP ───────────────────────────────────────────────
+indic-nlp-library>=0.91
+sentencepiece>=0.2.0
+
+# ── RAG & Embeddings ────────────────────────────────────────
+langchain>=0.1.16
+langchain-community>=0.0.36
+chromadb>=0.4.24
+faiss-cpu>=1.8.0
+sentence-transformers>=2.6.0
+
+# ── Data Collection ─────────────────────────────────────────
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+lxml>=5.2.1
+pypdf>=4.2.0
+
+# ── Utilities ───────────────────────────────────────────────
+numpy>=1.26.4
+pandas>=2.2.2
+tqdm>=4.66.2
+loguru>=0.7.2
+rank-bm25>=0.2.2
+langdetect>=1.0.9
+pyyaml>=6.0.1
+
+# ── Evaluation ──────────────────────────────────────────────
+evaluate>=0.4.1
+rouge-score>=0.1.2
+nltk>=3.8.1
+wandb>=0.16.6
+
+# ── Dev ─────────────────────────────────────────────────────
+pytest>=8.1.0
+ipykernel>=6.29.4
