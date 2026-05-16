@@ -1,0 +1,942 @@
+{
+  "documents": [
+    "This Act shall be called the Indian Penal Code, and shall extend to the whole of India except the State of Jammu and Kashmir.",
+    "This Act shall be called the Indian Penal Code, and shall extend to the whole of India except the State of Jammu and Kashmir.",
+    "When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone.",
+    "When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone.",
+    "An assembly of five or more persons is designated an unlawful assembly, if the common object of the persons composing that assembly is to overawe by criminal force, or show of criminal force, the Central or any State Government or Parliament or the Legislature of any State, or any public servant in the exercise of the lawful power of such public servant.",
+    "An assembly of five or more persons is designated an unlawful assembly, if the common object of the persons composing that assembly is to overawe by criminal force, or show of criminal force, the Central or any State Government or Parliament or the Legislature of any State, or any public servant in the exercise of the lawful power of such public servant.",
+    "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.",
+    "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.",
+    "Except in the cases hereinafter excepted, culpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or if it is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused.",
+    "Except in the cases hereinafter excepted, culpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or if it is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused.",
+    "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "ಯಾರಾದರೂ ಕೊಲೆ ಮಾಡಿದರೆ ಅವರಿಗೆ ಮರಣದಂಡನೆ ಅಥವಾ ಜೀವಾವಧಿ ಕಾರಾಗೃಹ ಶಿಕ್ಷೆ ವಿಧಿಸಲಾಗುವುದು ಮತ್ತು ದಂಡ ಕೂಡ ವಿಧಿಸಬಹುದು.",
+    "ಕೊಲೆಗೆ ಶಿಕ್ಷೆ. ಯಾರಾದರೂ ಕೊಲೆ ಮಾಡಿದರೆ ಅವರಿಗೆ ಮರಣದಂಡನೆ ಅಥವಾ ಜೀವಾವಧಿ ಕಾರಾಗೃಹ ಶಿಕ್ಷೆ ವಿಧಿಸಲಾಗುವುದು ಮತ್ತು ದಂಡ ಕೂಡ ವಿಧಿಸಬಹುದು.",
+    "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "The following kinds of hurt only are designated as grievous: Emasculation; Permanent privation of the sight of either eye; Permanent privation of the hearing of either ear; Privation of any member or joint; Destruction or permanent impairing of the powers of any member or joint; Permanent disfiguration of the head or face; Fracture or dislocation of a bone or tooth; Any hurt which endangers life or which causes the sufferer to be during the space of twenty days in severe bodily pain, or unable to follow his ordinary pursuits.",
+    "The following kinds of hurt only are designated as grievous: Emasculation; Permanent privation of the sight of either eye; Permanent privation of the hearing of either ear; Privation of any member or joint; Destruction or permanent impairing of the powers of any member or joint; Permanent disfiguration of the head or face; Fracture or dislocation of a bone or tooth; Any hurt which endangers life or which causes the sufferer to be during the space of twenty days in severe bodily pain, or unable to follow his ordinary pursuits.",
+    "Whoever, except in the case provided for by section 334, voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both.",
+    "ಯಾರಾದರೂ ಸ್ವಯಂಪ್ರೇರಿತವಾಗಿ ಇನ್ನೊಬ್ಬರಿಗೆ ಗಾಯ ಮಾಡಿದರೆ ಒಂದು ವರ್ಷದವರೆಗೆ ಜೈಲು ಶಿಕ್ಷೆ ಅಥವಾ 1000 ರೂಪಾಯಿ ದಂಡ ಅಥವಾ ಎರಡನ್ನೂ ವಿಧಿಸಲಾಗುವುದು.",
+    "ಸ್ವಯಂಪ್ರೇರಿತವಾಗಿ ಗಾಯ ಮಾಡಿದ್ದಕ್ಕೆ ಶಿಕ್ಷೆ. ಯಾರಾದರೂ ಸ್ವಯಂಪ್ರೇರಿತವಾಗಿ ಇನ್ನೊಬ್ಬರಿಗೆ ಗಾಯ ಮಾಡಿದರೆ ಒಂದು ವರ್ಷದವರೆಗೆ ಜೈಲು ಶಿಕ್ಷೆ ಅಥವಾ 1000 ರೂಪಾಯಿ ದಂಡ ಅಥವಾ ಎರಡನ್ನೂ ವಿಧಿಸಲಾಗುವುದು.",
+    "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "ಯಾರಾದರೂ ಮಹಿಳೆಯ ಮಾನಭಂಗ ಮಾಡುವ ಉದ್ದೇಶದಿಂದ ಹಲ್ಲೆ ಮಾಡಿದರೆ ಎರಡು ವರ್ಷದವರೆಗೆ ಜೈಲು ಶಿಕ್ಷೆ ಅಥವಾ ದಂಡ ಅಥವಾ ಎರಡನ್ನೂ ವಿಧಿಸಲಾಗುವುದು.",
+    "ಮಹಿಳೆಯ ಮಾನಭಂಗ ಮಾಡುವ ಉದ್ದೇಶದಿಂದ ಹಲ್ಲೆ. ಯಾರಾದರೂ ಮಹಿಳೆಯ ಮಾನಭಂಗ ಮಾಡುವ ಉದ್ದೇಶದಿಂದ ಹಲ್ಲೆ ಮಾಡಿದರೆ ಎರಡು ವರ್ಷದವರೆಗೆ ಜೈಲು ಶಿಕ್ಷೆ ಅಥವಾ ದಂಡ ಅಥವಾ ಎರಡನ್ನೂ ವಿಧಿಸಲಾಗುವುದು.",
+    "Whoever commits rape shall be punished with rigorous imprisonment of either description for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine.",
+    "ಅತ್ಯಾಚಾರ ಮಾಡಿದ ವ್ಯಕ್ತಿಗೆ ಕನಿಷ್ಠ ಹತ್ತು ವರ್ಷ ಕಠಿಣ ಕಾರಾಗೃಹ ಶಿಕ್ಷೆ ವಿಧಿಸಲಾಗುವುದು, ಇದು ಜೀವಾವಧಿ ಶಿಕ್ಷೆಯವರೆಗೆ ವಿಸ್ತರಿಸಬಹುದು ಮತ್ತು ದಂಡ ಕೂಡ ವಿಧಿಸಲಾಗುವುದು.",
+    "ಅತ್ಯಾಚಾರಕ್ಕೆ ಶಿಕ್ಷೆ. ಅತ್ಯಾಚಾರ ಮಾಡಿದ ವ್ಯಕ್ತಿಗೆ ಕನಿಷ್ಠ ಹತ್ತು ವರ್ಷ ಕಠಿಣ ಕಾರಾಗೃಹ ಶಿಕ್ಷೆ ವಿಧಿಸಲಾಗುವುದು, ಇದು ಜೀವಾವಧಿ ಶಿಕ್ಷೆಯವರೆಗೆ ವಿಸ್ತರಿಸಬಹುದು ಮತ್ತು ದಂಡ ಕೂಡ ವಿಧಿಸಲಾಗುವುದು.",
+    "Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "ಯಾರಾದರೂ ಕಳ್ಳತನ ಮಾಡಿದರೆ ಮೂರು ವರ್ಷದವರೆಗೆ ಜೈಲು ಶಿಕ್ಷೆ ಅಥವಾ ದಂಡ ಅಥವಾ ಎರಡನ್ನೂ ವಿಧಿಸಲಾಗುವುದು.",
+    "ಕಳ್ಳತನಕ್ಕೆ ಶಿಕ್ಷೆ. ಯಾರಾದರೂ ಕಳ್ಳತನ ಮಾಡಿದರೆ ಮೂರು ವರ್ಷದವರೆಗೆ ಜೈಲು ಶಿಕ್ಷೆ ಅಥವಾ ದಂಡ ಅಥವಾ ಎರಡನ್ನೂ ವಿಧಿಸಲಾಗುವುದು.",
+    "Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property or valuable security or anything signed or sealed which may be converted into a valuable security, commits extortion.",
+    "Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property or valuable security or anything signed or sealed which may be converted into a valuable security, commits extortion.",
+    "In all robbery there is either theft or extortion. Theft is robbery if, in order to the committing of the theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end, voluntarily causes or attempts to cause to any person death or hurt or wrongful restraint, or fear of instant death or of instant hurt, or of instant wrongful restraint.",
+    "In all robbery there is either theft or extortion. Theft is robbery if, in order to the committing of the theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end, voluntarily causes or attempts to cause to any person death or hurt or wrongful restraint, or fear of instant death or of instant hurt, or of instant wrongful restraint.",
+    "Whoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; and, if the robbery be committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years.",
+    "ಯಾರಾದರೂ ದರೋಡೆ ಮಾಡಿದರೆ ಹತ್ತು ವರ್ಷದವರೆಗೆ ಕಠಿಣ ಕಾರಾಗೃಹ ಶಿಕ್ಷೆ ಮತ್ತು ದಂಡ ವಿಧಿಸಲಾಗುವುದು.",
+    "ದರೋಡೆಗೆ ಶಿಕ್ಷೆ. ಯಾರಾದರೂ ದರೋಡೆ ಮಾಡಿದರೆ ಹತ್ತು ವರ್ಷದವರೆಗೆ ಕಠಿಣ ಕಾರಾಗೃಹ ಶಿಕ್ಷೆ ಮತ್ತು ದಂಡ ವಿಧಿಸಲಾಗುವುದು.",
+    "Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+    "Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+    "Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to cheat.",
+    "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to cheat.",
+    "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "ಯಾರಾದರೂ ಮೋಸ ಮಾಡಿ ಮತ್ತು ಅದರಿಂದ ಮೋಸಗೊಂಡ ವ್ಯಕ್ತಿಯನ್ನು ಆಸ್ತಿ ನೀಡಲು ಅಪ್ರಾಮಾಣಿಕವಾಗಿ ಪ್ರೇರೇಪಿಸಿದರೆ, ಏಳು ವರ್ಷದವರೆಗೆ ಜೈಲು ಶಿಕ್ಷೆ ಮತ್ತು ದಂಡ ವಿಧಿಸಲಾಗುವುದು.",
+    "ಮೋಸ ಮತ್ತು ಆಸ್ತಿ ವಿತರಣೆಗೆ ಅಪ್ರಾಮಾಣಿಕ ಪ್ರೇರಣೆ. ಯಾರಾದರೂ ಮೋಸ ಮಾಡಿ ಮತ್ತು ಅದರಿಂದ ಮೋಸಗೊಂಡ ವ್ಯಕ್ತಿಯನ್ನು ಆಸ್ತಿ ನೀಡಲು ಅಪ್ರಾಮಾಣಿಕವಾಗಿ ಪ್ರೇರೇಪಿಸಿದರೆ, ಏಳು ವರ್ಷದವರೆಗೆ ಜೈಲು ಶಿಕ್ಷೆ ಮತ್ತು ದಂಡ ವಿಧಿಸಲಾಗುವುದು.",
+    "Whoever commits mischief shall be punished with imprisonment of either description for a term which may extend to three months, or with fine, or with both.",
+    "Whoever commits mischief shall be punished with imprisonment of either description for a term which may extend to three months, or with fine, or with both.",
+    "Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property, or having lawfully entered into or upon such property, unlawfully remains there with intent thereby to intimidate, insult or annoy any person, or with intent to commit an offence, is said to commit criminal trespass.",
+    "ಯಾರಾದರೂ ಅಪರಾಧ ಮಾಡುವ ಉದ್ದೇಶದಿಂದ ಅಥವಾ ಇನ್ನೊಬ್ಬರನ್ನು ಬೆದರಿಸಲು, ಅವಮಾನಿಸಲು ಅಥವಾ ಕಿರಿಕಿರಿ ಮಾಡಲು ಆಸ್ತಿಗೆ ಪ್ರವೇಶಿಸಿದರೆ ಅದು ಅಪರಾಧಿ ಅತಿಕ್ರಮಣ ಆಗುತ್ತದೆ.",
+    "ಅಪರಾಧಿ ಅತಿಕ್ರಮಣ. ಯಾರಾದರೂ ಅಪರಾಧ ಮಾಡುವ ಉದ್ದೇಶದಿಂದ ಅಥವಾ ಇನ್ನೊಬ್ಬರನ್ನು ಬೆದರಿಸಲು, ಅವಮಾನಿಸಲು ಅಥವಾ ಕಿರಿಕಿರಿ ಮಾಡಲು ಆಸ್ತಿಗೆ ಪ್ರವೇಶಿಸಿದರೆ ಅದು ಅಪರಾಧಿ ಅತಿಕ್ರಮಣ ಆಗುತ್ತದೆ.",
+    "Whoever commits criminal trespass shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five hundred rupees, or with both.",
+    "Whoever commits criminal trespass shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five hundred rupees, or with both.",
+    "Whoever makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery.",
+    "Whoever makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery.",
+    "Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter excepted, to defame that person.",
+    "ಯಾರಾದರೂ ಮಾತಿನಿಂದ, ಬರಹದಿಂದ, ಸನ್ನೆಯಿಂದ ಅಥವಾ ಗೋಚರ ರೂಪದಿಂದ ಇನ್ನೊಬ್ಬರ ಮಾನ ಹಾನಿ ಮಾಡಲು ಆರೋಪ ಮಾಡಿದರೆ ಅದು ಮಾನನಷ್ಟ ಆಗುತ್ತದೆ.",
+    "ಮಾನನಷ್ಟ. ಯಾರಾದರೂ ಮಾತಿನಿಂದ, ಬರಹದಿಂದ, ಸನ್ನೆಯಿಂದ ಅಥವಾ ಗೋಚರ ರೂಪದಿಂದ ಇನ್ನೊಬ್ಬರ ಮಾನ ಹಾನಿ ಮಾಡಲು ಆರೋಪ ಮಾಡಿದರೆ ಅದು ಮಾನನಷ್ಟ ಆಗುತ್ತದೆ.",
+    "Whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation.",
+    "ಯಾರಾದರೂ ಇನ್ನೊಬ್ಬರಿಗೆ ಗಾಯ, ಮಾನಹಾನಿ ಅಥವಾ ಆಸ್ತಿ ಹಾನಿ ಮಾಡುವ ಬೆದರಿಕೆ ಹಾಕಿ ಅವರನ್ನು ಹೆದರಿಸಿದರೆ ಅದು ಅಪರಾಧಿ ಬೆದರಿಕೆ ಆಗುತ್ತದೆ.",
+    "ಅಪರಾಧಿ ಬೆದರಿಕೆ. ಯಾರಾದರೂ ಇನ್ನೊಬ್ಬರಿಗೆ ಗಾಯ, ಮಾನಹಾನಿ ಅಥವಾ ಆಸ್ತಿ ಹಾನಿ ಮಾಡುವ ಬೆದರಿಕೆ ಹಾಕಿ ಅವರನ್ನು ಹೆದರಿಸಿದರೆ ಅದು ಅಪರಾಧಿ ಬೆದರಿಕೆ ಆಗುತ್ತದೆ.",
+    "Whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "Whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "Whoever, intending to insult the modesty of any woman, utters any word, makes any sound or gesture, or exhibits any object, intending that such word or sound shall be heard, or that such gesture or object shall be seen, by such woman, or intrudes upon the privacy of such woman, shall be punished with simple imprisonment for a term which may extend to three years, and also with fine.",
+    "Whoever, intending to insult the modesty of any woman, utters any word, makes any sound or gesture, or exhibits any object, intending that such word or sound shall be heard, or that such gesture or object shall be seen, by such woman, or intrudes upon the privacy of such woman, shall be punished with simple imprisonment for a term which may extend to three years, and also with fine.",
+    "This Act may be called the Karnataka Land Revenue Act, 1964. It extends to the whole of the State of Karnataka. It shall come into force on such date as the State Government may, by notification, appoint.",
+    "This Act may be called the Karnataka Land Revenue Act, 1964. It extends to the whole of the State of Karnataka. It shall come into force on such date as the State Government may, by notification, appoint.",
+    "Every holder of land shall maintain the boundary marks of his land in good repair, and shall not remove, alter or destroy any boundary mark. Any person who removes, alters or destroys any boundary mark shall be liable to pay the cost of restoring the same and shall also be punishable with fine.",
+    "Every holder of land shall maintain the boundary marks of his land in good repair, and shall not remove, alter or destroy any boundary mark. Any person who removes, alters or destroys any boundary mark shall be liable to pay the cost of restoring the same and shall also be punishable with fine.",
+    "No person shall encroach upon or occupy any land belonging to the government without prior permission. Any person who encroaches upon government land shall be liable to be evicted and shall also be liable to pay penalty as prescribed. The Deputy Commissioner may summarily evict any person who has encroached on government land.",
+    "No person shall encroach upon or occupy any land belonging to the government without prior permission. Any person who encroaches upon government land shall be liable to be evicted and shall also be liable to pay penalty as prescribed. The Deputy Commissioner may summarily evict any person who has encroached on government land.",
+    "This Act may be called the Karnataka Police Act, 1963. It extends to the whole of the State of Karnataka. It shall come into force on such date as the State Government may, by notification in the Official Gazette, appoint.",
+    "This Act may be called the Karnataka Police Act, 1963. It extends to the whole of the State of Karnataka. It shall come into force on such date as the State Government may, by notification in the Official Gazette, appoint.",
+    "Any police officer may, without an order from a Magistrate and without a warrant, arrest any person who has been concerned in any cognizable offence or against whom a reasonable complaint has been made or credible information has been received or a reasonable suspicion exists of his having been so concerned.",
+    "Any police officer may, without an order from a Magistrate and without a warrant, arrest any person who has been concerned in any cognizable offence or against whom a reasonable complaint has been made or credible information has been received or a reasonable suspicion exists of his having been so concerned.",
+    "No employee in any establishment shall be required or allowed to work for more than eight hours in any day and forty-eight hours in any week. The period of work of an employee each day shall be so fixed that no period shall exceed five hours before an interval for rest of at least half an hour is given.",
+    "No employee in any establishment shall be required or allowed to work for more than eight hours in any day and forty-eight hours in any week. The period of work of an employee each day shall be so fixed that no period shall exceed five hours before an interval for rest of at least half an hour is given.",
+    "Every employee who has worked for a period of not less than two hundred and forty days during a calendar year in an establishment shall be entitled to leave with wages at the rate of one day for every twenty days of work performed by him during the previous calendar year.",
+    "Every employee who has worked for a period of not less than two hundred and forty days during a calendar year in an establishment shall be entitled to leave with wages at the rate of one day for every twenty days of work performed by him during the previous calendar year.",
+    "The standard rent of any premises may be fixed by the Rent Control Court on application made by the tenant or landlord. The court shall fix standard rent having regard to the prevailing market rent of similar premises in the locality, the amenities provided and the cost of construction.",
+    "The standard rent of any premises may be fixed by the Rent Control Court on application made by the tenant or landlord. The court shall fix standard rent having regard to the prevailing market rent of similar premises in the locality, the amenities provided and the cost of construction.",
+    "A landlord may apply to the Rent Control Court for an order directing the tenant to put the landlord in possession of the premises if the tenant has not paid or tendered the rent due from him in respect of the premises within fifteen days after the expiry of the time fixed by the contract for the payment of rent.",
+    "A landlord may apply to the Rent Control Court for an order directing the tenant to put the landlord in possession of the premises if the tenant has not paid or tendered the rent due from him in respect of the premises within fifteen days after the expiry of the time fixed by the contract for the payment of rent.",
+    "No person shall slaughter or cause to be slaughtered any animal at any place other than a slaughterhouse. No animal shall be slaughtered unless a certificate has been granted by the competent authority that the animal is fit for slaughter.",
+    "No person shall slaughter or cause to be slaughtered any animal at any place other than a slaughterhouse. No animal shall be slaughtered unless a certificate has been granted by the competent authority that the animal is fit for slaughter.",
+    "A person who desires to obtain any information under this Act, shall make a request in writing or through electronic means in English or Hindi or in the official language of the area in which the application is being made, to the Central Public Information Officer or State Public Information Officer. An applicant making request for information shall not be required to give any reason for requesting the information.",
+    "A person who desires to obtain any information under this Act, shall make a request in writing or through electronic means in English or Hindi or in the official language of the area in which the application is being made, to the Central Public Information Officer or State Public Information Officer. An applicant making request for information shall not be required to give any reason for requesting the information.",
+    "Subject to the proviso to sub-section (2) of section 5 or the proviso to sub-section (3) of section 6, the Central Public Information Officer or State Public Information Officer, as the case may be, on receipt of a request shall, as expeditiously as possible, and in any case within thirty days of the receipt of the request, either provide the information on payment of such fee as may be prescribed or reject the request for any of the reasons specified in sections 8 and 9.",
+    "Subject to the proviso to sub-section (2) of section 5 or the proviso to sub-section (3) of section 6, the Central Public Information Officer or State Public Information Officer, as the case may be, on receipt of a request shall, as expeditiously as possible, and in any case within thirty days of the receipt of the request, either provide the information on payment of such fee as may be prescribed or reject the request for any of the reasons specified in sections 8 and 9.",
+    "Consumer means any person who buys any goods for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment and includes any user of such goods other than the person who buys such goods for consideration paid or promised or partly paid or partly promised, or under any system of deferred payment, when such use is made with the approval of such person, but does not include a person who obtains such goods for resale or for any commercial purpose.",
+    "Consumer means any person who buys any goods for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment and includes any user of such goods other than the person who buys such goods for consideration paid or promised or partly paid or partly promised, or under any system of deferred payment, when such use is made with the approval of such person, but does not include a person who obtains such goods for resale or for any commercial purpose.",
+    "A complaint in relation to any goods sold or delivered or agreed to be sold or delivered or any service provided or agreed to be provided may be filed with a District Commission by the consumer to whom such goods are sold or delivered or agreed to be sold or delivered or such service provided or agreed to be provided.",
+    "A complaint in relation to any goods sold or delivered or agreed to be sold or delivered or any service provided or agreed to be provided may be filed with a District Commission by the consumer to whom such goods are sold or delivered or agreed to be sold or delivered or such service provided or agreed to be provided.",
+    "For the purposes of this Act, any act, omission or commission or conduct of the respondent shall constitute domestic violence in case it harms or injures or endangers the health, safety, life, limb or well-being, whether mental or physical, of the aggrieved person or tends to do so and includes causing physical abuse, sexual abuse, verbal and emotional abuse and economic abuse.",
+    "For the purposes of this Act, any act, omission or commission or conduct of the respondent shall constitute domestic violence in case it harms or injures or endangers the health, safety, life, limb or well-being, whether mental or physical, of the aggrieved person or tends to do so and includes causing physical abuse, sexual abuse, verbal and emotional abuse and economic abuse.",
+    "An aggrieved person or a Protection Officer or any other person on behalf of the aggrieved person may present an application to the Magistrate seeking one or more reliefs under this Act. The relief sought may include a protection order, a residence order, monetary reliefs, a custody order or a compensation order.",
+    "An aggrieved person or a Protection Officer or any other person on behalf of the aggrieved person may present an application to the Magistrate seeking one or more reliefs under this Act. The relief sought may include a protection order, a residence order, monetary reliefs, a custody order or a compensation order.",
+    "IN THE HIGH COURT OF KARNATAKA AT BENGALURU CRIMINAL APPEAL NO. 1234 OF 2022 Between: State of Karnataka ... Appellant And: Accused Person ... Respondent This criminal appeal is filed by the State challenging the order of acquittal passed by the Sessions Court. The accused was charged under Section 302 read with 34 of IPC. After careful consideration of evidence, this Court finds that the prosecution has established its case beyond reasonable doubt. The appeal is allowed. The accused is convicted under Section 302 IPC and sentenced to imprisonment for life.",
+    "IN THE HIGH COURT OF KARNATAKA AT BENGALURU CRIMINAL APPEAL NO. 1234 OF 2022 Between: State of Karnataka ... Appellant And: Accused Person ... Respondent This criminal appeal is filed by the State challenging the order of acquittal passed by the Sessions Court. The accused was charged under Section 302 read with 34 of IPC. After careful consideration of evidence, this Court finds that the prosecution has established its case beyond reasonable doubt. The appeal is allowed. The accused is convicted under Section 302 IPC and sentenced to imprisonment for life.",
+    "IN THE HIGH COURT OF KARNATAKA AT BENGALURU CRIMINAL PETITION NO. 5678 OF 2021 Between: Accused Person ... Petitioner And: State of Karnataka ... Respondent The petitioner is accused of offences punishable under Sections 420 and 406 of IPC. Having regard to the nature of the offence, the materials on record and the period of incarceration, this Court is of the opinion that the petitioner is entitled to bail. The petition is allowed. The petitioner is ordered to be released on bail subject to the following conditions: 1. Shall execute a personal bond for Rs.1,00,000. 2. Shall not leave the jurisdiction without prior permission. 3. Shall appear before the trial court on all hearing dates.",
+    "IN THE HIGH COURT OF KARNATAKA AT BENGALURU CRIMINAL PETITION NO. 5678 OF 2021 Between: Accused Person ... Petitioner And: State of Karnataka ... Respondent The petitioner is accused of offences punishable under Sections 420 and 406 of IPC. Having regard to the nature of the offence, the materials on record and the period of incarceration, this Court is of the opinion that the petitioner is entitled to bail. The petition is allowed. The petitioner is ordered to be released on bail subject to the following conditions: 1. Shall execute a personal bond for Rs.1,00,000. 2. Shall not leave the jurisdiction without prior permission. 3. Shall appear before the trial court on all hearing dates.",
+    "IN THE HIGH COURT OF KARNATAKA AT BENGALURU WRIT PETITION NO. 9012 OF 2023 Between: Citizen ... Petitioner And: State of Karnataka & Others ... Respondents The petitioner sought information under the RTI Act 2005 which was denied by the Public Information Officer. This Court holds that every citizen has the right to information under Article 19(1)(a) of the Constitution read with the RTI Act 2005. The writ petition is allowed. The respondent is directed to furnish the information sought within 15 days.",
+    "IN THE HIGH COURT OF KARNATAKA AT BENGALURU WRIT PETITION NO. 9012 OF 2023 Between: Citizen ... Petitioner And: State of Karnataka & Others ... Respondents The petitioner sought information under the RTI Act 2005 which was denied by the Public Information Officer. This Court holds that every citizen has the right to information under Article 19(1)(a) of the Constitution read with the RTI Act 2005. The writ petition is allowed. The respondent is directed to furnish the information sought within 15 days."
+  ],
+  "metadatas": [
+    {
+      "law_name": "IPC",
+      "section_number": "1",
+      "title": "Title and extent of operation of the Code",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "1",
+      "title": "Title and extent of operation of the Code",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "34",
+      "title": "Acts done by several persons in furtherance of common intention",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "34",
+      "title": "Acts done by several persons in furtherance of common intention",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "141",
+      "title": "Unlawful assembly",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "141",
+      "title": "Unlawful assembly",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "299",
+      "title": "Culpable homicide",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "299",
+      "title": "Culpable homicide",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "300",
+      "title": "Murder",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "300",
+      "title": "Murder",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "302",
+      "title": "Punishment for murder",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "302",
+      "title": "Punishment for murder",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "302",
+      "title": "Punishment for murder",
+      "source": "indiacode.nic.in",
+      "chunk_type": "title_body",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "304",
+      "title": "Punishment for culpable homicide not amounting to murder",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "304",
+      "title": "Punishment for culpable homicide not amounting to murder",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "307",
+      "title": "Attempt to murder",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "307",
+      "title": "Attempt to murder",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "320",
+      "title": "Grievous hurt",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "320",
+      "title": "Grievous hurt",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "323",
+      "title": "Punishment for voluntarily causing hurt",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "323",
+      "title": "Punishment for voluntarily causing hurt",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "323",
+      "title": "Punishment for voluntarily causing hurt",
+      "source": "indiacode.nic.in",
+      "chunk_type": "title_body",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "354",
+      "title": "Assault or criminal force to woman with intent to outrage her modesty",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "354",
+      "title": "Assault or criminal force to woman with intent to outrage her modesty",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "354",
+      "title": "Assault or criminal force to woman with intent to outrage her modesty",
+      "source": "indiacode.nic.in",
+      "chunk_type": "title_body",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "376",
+      "title": "Punishment for rape",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "376",
+      "title": "Punishment for rape",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "376",
+      "title": "Punishment for rape",
+      "source": "indiacode.nic.in",
+      "chunk_type": "title_body",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "379",
+      "title": "Punishment for theft",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "379",
+      "title": "Punishment for theft",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "379",
+      "title": "Punishment for theft",
+      "source": "indiacode.nic.in",
+      "chunk_type": "title_body",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "383",
+      "title": "Extortion",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "383",
+      "title": "Extortion",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "390",
+      "title": "Robbery",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "390",
+      "title": "Robbery",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "392",
+      "title": "Punishment for robbery",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "392",
+      "title": "Punishment for robbery",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "392",
+      "title": "Punishment for robbery",
+      "source": "indiacode.nic.in",
+      "chunk_type": "title_body",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "395",
+      "title": "Punishment for dacoity",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "395",
+      "title": "Punishment for dacoity",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "406",
+      "title": "Punishment for criminal breach of trust",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "406",
+      "title": "Punishment for criminal breach of trust",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "415",
+      "title": "Cheating",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "415",
+      "title": "Cheating",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "420",
+      "title": "Cheating and dishonestly inducing delivery of property",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "420",
+      "title": "Cheating and dishonestly inducing delivery of property",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "420",
+      "title": "Cheating and dishonestly inducing delivery of property",
+      "source": "indiacode.nic.in",
+      "chunk_type": "title_body",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "426",
+      "title": "Punishment for mischief",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "426",
+      "title": "Punishment for mischief",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "441",
+      "title": "Criminal trespass",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "441",
+      "title": "Criminal trespass",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "441",
+      "title": "Criminal trespass",
+      "source": "indiacode.nic.in",
+      "chunk_type": "title_body",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "447",
+      "title": "Punishment for criminal trespass",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "447",
+      "title": "Punishment for criminal trespass",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "463",
+      "title": "Forgery",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "463",
+      "title": "Forgery",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "499",
+      "title": "Defamation",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "499",
+      "title": "Defamation",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "499",
+      "title": "Defamation",
+      "source": "indiacode.nic.in",
+      "chunk_type": "title_body",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "503",
+      "title": "Criminal intimidation",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "503",
+      "title": "Criminal intimidation",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "503",
+      "title": "Criminal intimidation",
+      "source": "indiacode.nic.in",
+      "chunk_type": "title_body",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "506",
+      "title": "Punishment for criminal intimidation",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "506",
+      "title": "Punishment for criminal intimidation",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "509",
+      "title": "Word, gesture or act intended to insult the modesty of a woman",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "IPC",
+      "section_number": "509",
+      "title": "Word, gesture or act intended to insult the modesty of a woman",
+      "source": "indiacode.nic.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Karnataka Land Revenue Act, 1964",
+      "section_number": "1",
+      "title": "Short title, extent and commencement",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Karnataka Land Revenue Act, 1964",
+      "section_number": "1",
+      "title": "Short title, extent and commencement",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Karnataka Land Revenue Act, 1964",
+      "section_number": "45",
+      "title": "Survey and boundaries of land",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Karnataka Land Revenue Act, 1964",
+      "section_number": "45",
+      "title": "Survey and boundaries of land",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Karnataka Land Revenue Act, 1964",
+      "section_number": "94",
+      "title": "Encroachment on government land",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Karnataka Land Revenue Act, 1964",
+      "section_number": "94",
+      "title": "Encroachment on government land",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Karnataka Police Act, 1963",
+      "section_number": "1",
+      "title": "Short title, extent and commencement",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Karnataka Police Act, 1963",
+      "section_number": "1",
+      "title": "Short title, extent and commencement",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Karnataka Police Act, 1963",
+      "section_number": "64",
+      "title": "Power to arrest without warrant",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Karnataka Police Act, 1963",
+      "section_number": "64",
+      "title": "Power to arrest without warrant",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Karnataka Shops and Establishments Act, 1961",
+      "section_number": "13",
+      "title": "Hours of work",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Karnataka Shops and Establishments Act, 1961",
+      "section_number": "13",
+      "title": "Hours of work",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Karnataka Shops and Establishments Act, 1961",
+      "section_number": "21",
+      "title": "Leave",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Karnataka Shops and Establishments Act, 1961",
+      "section_number": "21",
+      "title": "Leave",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Karnataka Rent Control Act, 2001",
+      "section_number": "3",
+      "title": "Fixation of standard rent",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Karnataka Rent Control Act, 2001",
+      "section_number": "3",
+      "title": "Fixation of standard rent",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Karnataka Rent Control Act, 2001",
+      "section_number": "21",
+      "title": "Eviction of tenants",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Karnataka Rent Control Act, 2001",
+      "section_number": "21",
+      "title": "Eviction of tenants",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Karnataka Prevention of Slaughter and Preservation of Animals Act, 1964",
+      "section_number": "5",
+      "title": "Prohibition of slaughter without certificate",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Karnataka Prevention of Slaughter and Preservation of Animals Act, 1964",
+      "section_number": "5",
+      "title": "Prohibition of slaughter without certificate",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Right to Information Act, 2005",
+      "section_number": "6",
+      "title": "Request for obtaining information",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Right to Information Act, 2005",
+      "section_number": "6",
+      "title": "Request for obtaining information",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Right to Information Act, 2005",
+      "section_number": "7",
+      "title": "Disposal of request",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Right to Information Act, 2005",
+      "section_number": "7",
+      "title": "Disposal of request",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Consumer Protection Act, 2019",
+      "section_number": "2",
+      "title": "Definitions — Consumer",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Consumer Protection Act, 2019",
+      "section_number": "2",
+      "title": "Definitions — Consumer",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Consumer Protection Act, 2019",
+      "section_number": "35",
+      "title": "Manner in which complaint shall be made",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Consumer Protection Act, 2019",
+      "section_number": "35",
+      "title": "Manner in which complaint shall be made",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Protection of Women from Domestic Violence Act, 2005",
+      "section_number": "3",
+      "title": "Definition of domestic violence",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Protection of Women from Domestic Violence Act, 2005",
+      "section_number": "3",
+      "title": "Definition of domestic violence",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Protection of Women from Domestic Violence Act, 2005",
+      "section_number": "12",
+      "title": "Application to Magistrate",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Protection of Women from Domestic Violence Act, 2005",
+      "section_number": "12",
+      "title": "Application to Magistrate",
+      "source": "karnataka.gov.in",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Unknown",
+      "section_number": "unknown",
+      "title": "",
+      "source": "Karnataka High Court",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Unknown",
+      "section_number": "unknown",
+      "title": "",
+      "source": "Karnataka High Court",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Unknown",
+      "section_number": "unknown",
+      "title": "",
+      "source": "Karnataka High Court",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Unknown",
+      "section_number": "unknown",
+      "title": "",
+      "source": "Karnataka High Court",
+      "chunk_type": "record",
+      "language": "kn"
+    },
+    {
+      "law_name": "Unknown",
+      "section_number": "unknown",
+      "title": "",
+      "source": "Karnataka High Court",
+      "chunk_type": "record",
+      "language": "en"
+    },
+    {
+      "law_name": "Unknown",
+      "section_number": "unknown",
+      "title": "",
+      "source": "Karnataka High Court",
+      "chunk_type": "record",
+      "language": "kn"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+# Kannada Legal AI — Language Configuration
+# This file defines all settings specific to the Kannada language
+
+language:
+  code: kn
+  name: Kannada
+  native_name: ಕನ್ನಡ
+  script: Kannada
+  family: Dravidian
+
+# ── IndicTrans2 translation code ────────────────────────────
+indic_trans_code: kan
+
+# ── Tokenizer ───────────────────────────────────────────────
+tokenizer:
+  library: indicnlp
+  fallback: whitespace
+
+# ── Embedding model ─────────────────────────────────────────
+embedding:
+  model: sentence-transformers/LaBSE
+  dimension: 768
+
+# ── Base model for fine-tuning ──────────────────────────────
+model:
+  base: ai4bharat/indic-bert
+  type: bert
+
+# ── Dialects supported ──────────────────────────────────────
+dialects:
+  - name: Mysuru
+    code: mysuru
+  - name: Dharwad
+    code: dharwad
+  - name: Mangaluru
+    code: mangaluru
+  - name: Bengaluru
+    code: bengaluru
+
+# ── Legal data sources ──────────────────────────────────────
+legal_sources:
+  - name: India Code (IPC)
+    url: https://indiacode.nic.in
+    language: English
+    needs_translation: true
+
+  - name: Karnataka Government Portal
+    url: https://karnataka.gov.in/english
+    language: English
+    needs_translation: true
+
+  - name: Vikaspedia Kannada Legal
+    url: https://kannada.vikaspedia.in/social-welfare/rights-a-nd-entitlements
+    language: Kannada
+    needs_translation: false
+
+  - name: AI4Bharat IndicCorp
+    url: https://huggingface.co/datasets/ai4bharat/IndicCorp
+    language: Kannada
+    needs_translation: false
+
+# ── Legal domains covered ───────────────────────────────────
+legal_domains:
+  - IPC (Indian Penal Code)
+  - CrPC (Code of Criminal Procedure)
+  - CPC (Code of Civil Procedure)
+  - Karnataka Land Revenue Act
+  - Karnataka Police Act
+  - RTI (Right to Information)
+  - Consumer Protection Act
+  - Family Law
+
+# ── Pragmatic settings ──────────────────────────────────────
+pragmatics:
+  max_context_turns: 5
+  vague_reference_terms:
+    - ಅದಕ್ಕೆ
+    - ಅದು
+    - ಅದರ
+    - ಅವರು
+  code_switch_threshold: 0.1

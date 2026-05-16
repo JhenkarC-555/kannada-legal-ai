@@ -1,0 +1,56 @@
+[
+  {
+    "case_number": "CRL.A 1234/2022",
+    "court": "High Court of Karnataka",
+    "date": "2022-08-15",
+    "petitioner": "State of Karnataka",
+    "respondent": "Accused Person",
+    "ipc_sections": [
+      "302",
+      "34"
+    ],
+    "judgment": "Conviction",
+    "summary": "The High Court of Karnataka upheld the conviction of the accused under IPC Section 302 read with Section 34. The court found that the prosecution had established beyond reasonable doubt that the accused had committed murder with common intention. The sentence of life imprisonment was confirmed.",
+    "text": "IN THE HIGH COURT OF KARNATAKA AT BENGALURU CRIMINAL APPEAL NO. 1234 OF 2022 Between: State of Karnataka ... Appellant And: Accused Person ... Respondent This criminal appeal is filed by the State challenging the order of acquittal passed by the Sessions Court. The accused was charged under Section 302 read with 34 of IPC. After careful consideration of evidence, this Court finds that the prosecution has established its case beyond reasonable doubt. The appeal is allowed. The accused is convicted under Section 302 IPC and sentenced to imprisonment for life.",
+    "source": "Karnataka High Court",
+    "language": "English",
+    "text_kn": "IN THE HIGH COURT OF KARNATAKA AT BENGALURU CRIMINAL APPEAL NO. 1234 OF 2022 Between: State of Karnataka ... Appellant And: Accused Person ... Respondent This criminal appeal is filed by the State challenging the order of acquittal passed by the Sessions Court. The accused was charged under Section 302 read with 34 of IPC. After careful consideration of evidence, this Court finds that the prosecution has established its case beyond reasonable doubt. The appeal is allowed. The accused is convicted under Section 302 IPC and sentenced to imprisonment for life.",
+    "translation_method": "untranslated",
+    "language_kn": true
+  },
+  {
+    "case_number": "CRL.P 5678/2021",
+    "court": "High Court of Karnataka",
+    "date": "2021-11-20",
+    "petitioner": "Accused Person",
+    "respondent": "State of Karnataka",
+    "ipc_sections": [
+      "420",
+      "406"
+    ],
+    "judgment": "Bail Granted",
+    "summary": "The High Court of Karnataka granted bail to the petitioner accused of offences under IPC Sections 420 and 406. The court considered the nature of the offence, the evidence on record and the period of detention and found that the petitioner was entitled to bail subject to conditions.",
+    "text": "IN THE HIGH COURT OF KARNATAKA AT BENGALURU CRIMINAL PETITION NO. 5678 OF 2021 Between: Accused Person ... Petitioner And: State of Karnataka ... Respondent The petitioner is accused of offences punishable under Sections 420 and 406 of IPC. Having regard to the nature of the offence, the materials on record and the period of incarceration, this Court is of the opinion that the petitioner is entitled to bail. The petition is allowed. The petitioner is ordered to be released on bail subject to the following conditions: 1. Shall execute a personal bond for Rs.1,00,000. 2. Shall not leave the jurisdiction without prior permission. 3. Shall appear before the trial court on all hearing dates.",
+    "source": "Karnataka High Court",
+    "language": "English",
+    "text_kn": "IN THE HIGH COURT OF KARNATAKA AT BENGALURU CRIMINAL PETITION NO. 5678 OF 2021 Between: Accused Person ... Petitioner And: State of Karnataka ... Respondent The petitioner is accused of offences punishable under Sections 420 and 406 of IPC. Having regard to the nature of the offence, the materials on record and the period of incarceration, this Court is of the opinion that the petitioner is entitled to bail. The petition is allowed. The petitioner is ordered to be released on bail subject to the following conditions: 1. Shall execute a personal bond for Rs.1,00,000. 2. Shall not leave the jurisdiction without prior permission. 3. Shall appear before the trial court on all hearing dates.",
+    "translation_method": "untranslated",
+    "language_kn": true
+  },
+  {
+    "case_number": "WP 9012/2023",
+    "court": "High Court of Karnataka",
+    "date": "2023-03-10",
+    "petitioner": "Citizen",
+    "respondent": "State of Karnataka",
+    "ipc_sections": [],
+    "judgment": "RTI Order",
+    "summary": "The High Court directed the State Public Information Officer to provide information sought by the petitioner under the Right to Information Act 2005 within 15 days. The court held that denial of information without valid reason is a violation of the petitioner's fundamental right.",
+    "text": "IN THE HIGH COURT OF KARNATAKA AT BENGALURU WRIT PETITION NO. 9012 OF 2023 Between: Citizen ... Petitioner And: State of Karnataka & Others ... Respondents The petitioner sought information under the RTI Act 2005 which was denied by the Public Information Officer. This Court holds that every citizen has the right to information under Article 19(1)(a) of the Constitution read with the RTI Act 2005. The writ petition is allowed. The respondent is directed to furnish the information sought within 15 days.",
+    "source": "Karnataka High Court",
+    "language": "English",
+    "text_kn": "IN THE HIGH COURT OF KARNATAKA AT BENGALURU WRIT PETITION NO. 9012 OF 2023 Between: Citizen ... Petitioner And: State of Karnataka & Others ... Respondents The petitioner sought information under the RTI Act 2005 which was denied by the Public Information Officer. This Court holds that every citizen has the right to information under Article 19(1)(a) of the Constitution read with the RTI Act 2005. The writ petition is allowed. The respondent is directed to furnish the information sought within 15 days.",
+    "translation_method": "untranslated",
+    "language_kn": true
+  }
+]
