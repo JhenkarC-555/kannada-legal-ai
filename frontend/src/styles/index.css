@@ -1,0 +1,195 @@
+/* ═══════════════════════════════════════════════
+   Kannada Legal AI — Global Styles
+   ═══════════════════════════════════════════════ */
+
+/* ── Reset ── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ── CSS Variables ── */
+:root {
+  /* Colors */
+  --gold:         #C8973A;
+  --gold-light:   #E8B95A;
+  --gold-pale:    #FDF5E6;
+  --gold-glow:    rgba(200, 151, 58, 0.15);
+  --ink:          #1A1209;
+  --ink-mid:      #3D2B10;
+  --parchment:    #FAF4E8;
+  --parch-dark:   #EFE5CC;
+  --red:          #8B1A1A;
+  --red-light:    #FEE2E2;
+  --green:        #1A4A2E;
+  --green-light:  #D1FAE5;
+  --blue:         #0D2B45;
+  --blue-mid:     #1A4A6E;
+  --blue-light:   #DBEAFE;
+  --gray:         #6B7280;
+  --gray-light:   #F3F4F6;
+  --white:        #FFFFFF;
+
+  /* Shadows */
+  --shadow-sm:    0 1px 4px rgba(0, 0, 0, 0.06);
+  --shadow-md:    0 4px 16px rgba(0, 0, 0, 0.10);
+  --shadow-lg:    0 8px 32px rgba(0, 0, 0, 0.14);
+
+  /* Border radius */
+  --radius-sm:    6px;
+  --radius-md:    10px;
+  --radius-lg:    16px;
+
+  /* Fonts */
+  --font-kn:      'Noto Sans Kannada', serif;
+  --font-display: 'Playfair Display', serif;
+  --font-mono:    'DM Mono', monospace;
+
+  /* Transitions */
+  --transition:   all 0.2s ease;
+}
+
+/* ── Base ── */
+html, body {
+  height: 100%;
+  font-family: var(--font-kn), -apple-system, sans-serif;
+  background: var(--parchment);
+  color: var(--ink);
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--parch-dark);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gold);
+}
+
+/* ── Animations ── */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes bounce {
+  0%, 80%, 100% {
+    transform: translateY(0);
+    opacity: 0.4;
+  }
+  40% {
+    transform: translateY(-6px);
+    opacity: 1;
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.6;
+    transform: scale(0.95);
+  }
+}
+
+@keyframes ping {
+  75%, 100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+/* ── Utility classes ── */
+.fade-in {
+  animation: fadeIn 0.3s ease forwards;
+}
+
+.slide-in {
+  animation: slideInLeft 0.3s ease forwards;
+}
+
+/* ── Kannada text specific ── */
+.kn-text {
+  font-family: var(--font-kn);
+  line-height: 1.8;
+}
+
+/* ── Skeleton loading ── */
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    var(--parch-dark) 25%,
+    var(--parchment) 50%,
+    var(--parch-dark) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: var(--radius-sm);
+}
+
+/* ── Focus styles (accessibility) ── */
+button:focus-visible,
+textarea:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+
+/* ── Selection color ── */
+::selection {
+  background: var(--gold-glow);
+  color: var(--ink);
+}

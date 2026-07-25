@@ -1,0 +1,33 @@
+# training/configs/lora_config.yaml
+
+model:
+  name: "ai4bharat/indic-bert"
+  task: "causal-lm"
+
+quantization:
+  load_in_4bit: true
+  bnb_4bit_compute_dtype: "float16"
+  bnb_4bit_quant_type: "nf4"
+  bnb_4bit_use_double_quant: true
+
+lora:
+  r: 16
+  lora_alpha: 32
+  lora_dropout: 0.05
+  target_modules: ["query", "value"]
+  bias: "none"
+  task_type: "CAUSAL_LM"
+
+training:
+  output_dir: "training/checkpoints"
+  num_train_epochs: 3
+  per_device_train_batch_size: 4
+  gradient_accumulation_steps: 4
+  learning_rate: 2.0e-4
+  warmup_ratio: 0.03
+  lr_scheduler_type: "cosine"
+  save_steps: 100
+  logging_steps: 25
+  fp16: true
+  max_seq_length: 512
+  report_to: "none"
